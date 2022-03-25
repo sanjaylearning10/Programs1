@@ -1,4 +1,4 @@
-package ChangeNov21;
+package CN21;
 
 public class MaxSumInArray {
 

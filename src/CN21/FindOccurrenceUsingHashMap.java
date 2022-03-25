@@ -1,4 +1,4 @@
-package ChangeNov21;
+package CN21;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class FindOccurrenceUsingCollections {
+public class FindOccurrenceUsingHashMap {
 
 	@SuppressWarnings("unlikely-arg-type")
 	public static void main(String[] args) {
